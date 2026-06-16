@@ -1,7 +1,7 @@
 # Computer Organization and Architecture
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Personal%20computer%2C%20exploded.svg" width="520" alt="Exploded diagram of a personal computer">
+  <img src="course_image.png" width="700" alt="Computer Organization and Architecture Course Cover">
 </p>
 
 <p align="center">
@@ -38,10 +38,3 @@ Overall, this course strengthened my basic knowledge of computing systems. It he
 ## Conclusion
 
 In conclusion, **Computer Organization and Architecture** has provided useful knowledge and skills that are important for my academic development and future career. The course helped me improve my understanding, strengthen my learning foundation, and become more prepared to apply these concepts in real-world computing and professional situations.
-
----
-
-## Image Credit
-
-Course-related image used from Wikimedia Commons:  
-https://commons.wikimedia.org/wiki/File:Personal%20computer%2C%20exploded.svg
