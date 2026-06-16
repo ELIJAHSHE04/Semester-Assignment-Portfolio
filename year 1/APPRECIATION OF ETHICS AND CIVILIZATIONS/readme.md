@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <b>Course Reflection README</b><br>
   Appreciation of Ethics and Civilizations
 </p>
 
