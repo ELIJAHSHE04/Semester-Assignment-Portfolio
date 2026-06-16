@@ -20,8 +20,7 @@
 ## Course Gallery
 
 | University Environment | Cultural Diversity |
-|---|---|
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Universiti%20Teknologi%20Malaysia.jpg" width="350" alt="Universiti Teknologi Malaysia"> | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Sabah%20Malaysia%20Welcoming-Contingent%20Hari-Merdeka-2013-15.jpg" width="350" alt="Cultural diversity in Malaysia"> |
+
 
 ---
 
