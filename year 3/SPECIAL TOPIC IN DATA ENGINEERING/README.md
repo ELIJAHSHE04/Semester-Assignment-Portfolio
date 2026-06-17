@@ -11,8 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Course-Special%20Topic%20in%20Data%20Engineering-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%7C%20AI%20%7C%20Pipeline-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/Status-Ongoing-success?style=for-the-badge" </p>
 
 ---
 
