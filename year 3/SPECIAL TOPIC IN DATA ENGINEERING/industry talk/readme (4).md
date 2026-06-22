@@ -13,7 +13,7 @@ PPG Industries is an elite global leader in paints, coatings, and specialty mate
 ## 📸 Evidence of Engagement
 
 <p align="center">
-  <img src="images/ppg_group_photo.jpeg" alt="UTM Data Engineering Team at PPG Industries" width="50%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+  <img src="year 3/SPECIAL TOPIC IN DATA ENGINEERING/industry talk/ppg_group_photo.jpeg" alt="UTM Data Engineering Team at PPG Industries" width="50%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
   <br>
   <i>Figure 1: Universiti Teknologi Malaysia (UTM) Year 3 Data Engineering Students' Group Photo at PPG Industries.</i>
 </p>
