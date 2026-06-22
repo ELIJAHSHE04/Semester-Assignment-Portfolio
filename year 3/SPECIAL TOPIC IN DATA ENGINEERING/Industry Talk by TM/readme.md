@@ -12,7 +12,7 @@ This strategic technical engagement with Telekom Malaysia provided a rare look i
 ## 📸 Evidence of Engagement
 
 <p align="center">
-  <img src="images/tm-group-photo.jpeg" alt="UTM Data Engineering Team during Telekom Malaysia Tech Seminar" width="60%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+  <img src="files/tm-group-photo.jpeg" alt="UTM Data Engineering Team during Telekom Malaysia Tech Seminar" width="60%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
   <br>
   <i>Figure 1: Universiti Teknologi Malaysia (UTM) Year 3 Data Engineering Cohort alongside tech leads during the Telekom Malaysia industrial talk session. </i>
 </p>
