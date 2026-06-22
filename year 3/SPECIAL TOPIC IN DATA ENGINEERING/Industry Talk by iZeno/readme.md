@@ -13,7 +13,7 @@ The iZeno technical engagement provided a deep-dive seminar showcasing how enter
 Below is the placeholder framework for the verified group photograph taken during the iZeno corporate engagement session:
 
 <p align="center">
-  <img src="images/izeno_group_photo.jpeg" alt="UTM Data Engineering Team with iZeno Engineers" width="50%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+  <img src="files/images/izeno_group_photo.jpeg" alt="UTM Data Engineering Team with iZeno Engineers" width="50%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
   <br>
   <i>Figure 1: Universiti Teknologi Malaysia (UTM) Year 3 Data Engineering Cohort attending the specialized cloud infrastructure seminar hosted by iZeno.</i>
 </p>
